@@ -37,6 +37,5 @@
 
 ### 📊 GitHub 數據 (Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karoyjayiyyxxxx&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoyjayiyyxxxx&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  <img src="https://streak-stats.demolab.com?user=karoyjayiyyxxxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
