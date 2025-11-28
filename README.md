@@ -28,4 +28,3 @@
 
 * Email: kitty930211@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=karoyjayiyyxxxx&show_icons=true&count_private=true&line_height=24&theme=onedark
