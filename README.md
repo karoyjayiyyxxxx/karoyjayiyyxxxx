@@ -35,7 +35,3 @@
   <img src="https://raw.githubusercontent.com/karoyjayiyyxxxx/karoyjayiyyxxxx/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
-### 📊 GitHub 數據 (Stats)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=karoyjayiyyxxxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
