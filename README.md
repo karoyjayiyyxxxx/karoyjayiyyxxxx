@@ -33,4 +33,4 @@
 ### 🐍 我的程式碼貪食蛇 (My Coding Snake)
 <div align="center">
   <img src="https://raw.githubusercontent.com/karoyjayiyxxxx/karoyjayiyxxxx/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
+</div>!
