@@ -9,7 +9,7 @@
 * 🧠 研究領域：AI Agent、BPNN、Time-Series、智慧旅遊、智慧醫療、智慧製造
 * 📚 曾在 UHIMA2025 & TLCMA2025、ICSEVEN 2025 國際研討會發表研究
 * 📄 Sensors and Materials (SCI Indexed) Anomaly Detection in Wafer Grinding Using AGO-Processed In-Process Sensor Data and Ensemble Learning: A Case Study .
-* 🏅 具多張 IT 證照（Java、資料庫、ERP、網路…）
+* 🏅 具多張專業證照（Java、資料庫、ERP、網路…）
 * 🏆 2025 Best AI Awards 智慧創新大賞 佳作
 * 🎯 目標:成為 **AI Product Manager**
 
