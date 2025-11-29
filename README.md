@@ -26,7 +26,7 @@
 
 ## 💌 Contact
 
-* Email: kitty930211@gmail.com
+* Email: krystal930211@gmail.com
 
 ---
 
