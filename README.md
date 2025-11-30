@@ -30,7 +30,7 @@
 
 ---
 
-### 🐍 我的程式碼貪食蛇 (My Coding Snake)
+### 🐍 My Coding Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/karoyjayiyyxxxx/karoyjayiyyxxxx/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
