@@ -1,4 +1,4 @@
-# Hi, I'm Chih-Jung Kuo 👑
+# Hi, I'm Krystal👑
 
 ### 🌟 AI / Data / Product Enthusiast
 
